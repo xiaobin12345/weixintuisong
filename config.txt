@@ -1,23 +1,23 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxd2f38dca7b355bce",
+"app_id": "wxc07960df9a5b2504",
 # 公众号appSecret
-"app_secret": "dc1e7016a9c749dfd55dd23edb8d998d",
+"app_secret": "4ce71620e413ab64ac20b32c81a7c0b5",
 # 模板消息id
-"template_id": "8TeT-Eh1qh0gM6ENFouNX-xeAehnKJJpwpVGZwpFOf4",
+"template_id": "NdeppAfSTFSM9xtcGo6ZsPeldzSZmACF4p8cTMPsX0Y",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oam715uRfbT347K2Na7EDcA2WRdc"],
+"user": ["oYOw16ovVE28hQWVLpA5t_XLmBDo","oYOw16ovVE28hQWVLpA5t_XLmBDo"],
 
 # 信息配置
 # 所在省份
-"province": "重庆",
+"province": "广东",
 # 所在城市
-"city": "重庆",
+"city": "东莞",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "宝宝", "birthday": "r2000-06-01"},
+"birthday1": {"name": "肥咪咪", "birthday": "r2000-10-07"},
 # 生日2
-"birthday2": {"name": "宝贝", "birthday": "r1999-08-18"},
+"birthday2": {"name": "Binbin", "birthday": "r2001-05-02"},
 # 在一起的日子，格式同上
-"love_date": "2022-01-01"
+"love_date": "2020-02-20"
 }
